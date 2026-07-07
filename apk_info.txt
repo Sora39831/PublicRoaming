@@ -1,0 +1,43 @@
+Package: tv.danmaku.bili
+Version Name: 9.1.0
+Version Code: 9010300
+Min SDK: 24
+Target SDK: 35
+DEX count: 29
+MultiDEX: True
+Activities: 708
+Services: 74
+Permissions: 73
+
+--- DEX Files ---
+[ 0] classes.dex
+[ 1] classes10.dex
+[ 2] classes11.dex
+[ 3] classes12.dex
+[ 4] classes13.dex
+[ 5] classes14.dex
+[ 6] classes15.dex
+[ 7] classes16.dex
+[ 8] classes17.dex
+[ 9] classes18.dex
+[10] classes19.dex
+[11] classes2.dex
+[12] classes20.dex
+[13] classes21.dex
+[14] classes22.dex
+[15] classes23.dex
+[16] classes24.dex
+[17] classes25.dex
+[18] classes26.dex
+[19] classes27.dex
+[20] classes28.dex
+[21] classes29.dex
+[22] classes3.dex
+[23] classes4.dex
+[24] classes5.dex
+[25] classes6.dex
+[26] classes7.dex
+[27] classes8.dex
+[28] classes9.dex
+
+--- arm64 Libraries ---
