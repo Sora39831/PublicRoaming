@@ -8,4 +8,5 @@
 .externalNativeBuild
 *.apk
 *.jar
+!gradle/wrapper/gradle-wrapper.jar
 /.kotlin
